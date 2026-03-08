@@ -1,0 +1,9 @@
+{
+	"name": "dataFactoryAzureProject9",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29c6bb5d-a322-4612-8be7-d31109fdb75e",
+		"tenantId": "64289df4-61d8-41c9-ad7d-3acc0b0fb8b5"
+	}
+}
