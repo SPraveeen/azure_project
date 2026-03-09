@@ -1,0 +1,9 @@
+{
+	"name": "dfpraveen-azureProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a9dc308-2d32-4142-a5ca-f8f03a45e3f2",
+		"tenantId": "64289df4-61d8-41c9-ad7d-3acc0b0fb8b5"
+	}
+}
